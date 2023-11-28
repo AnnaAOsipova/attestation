@@ -1,0 +1,14 @@
+/Users/dmitry/Desktop/обучение/C#/Промежуточная аттестация/TASK_68/bin/Debug/net7.0/TASK_68
+/Users/dmitry/Desktop/обучение/C#/Промежуточная аттестация/TASK_68/bin/Debug/net7.0/TASK_68.deps.json
+/Users/dmitry/Desktop/обучение/C#/Промежуточная аттестация/TASK_68/bin/Debug/net7.0/TASK_68.runtimeconfig.json
+/Users/dmitry/Desktop/обучение/C#/Промежуточная аттестация/TASK_68/bin/Debug/net7.0/TASK_68.dll
+/Users/dmitry/Desktop/обучение/C#/Промежуточная аттестация/TASK_68/bin/Debug/net7.0/TASK_68.pdb
+/Users/dmitry/Desktop/обучение/C#/Промежуточная аттестация/TASK_68/obj/Debug/net7.0/TASK_68.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitry/Desktop/обучение/C#/Промежуточная аттестация/TASK_68/obj/Debug/net7.0/TASK_68.AssemblyInfoInputs.cache
+/Users/dmitry/Desktop/обучение/C#/Промежуточная аттестация/TASK_68/obj/Debug/net7.0/TASK_68.AssemblyInfo.cs
+/Users/dmitry/Desktop/обучение/C#/Промежуточная аттестация/TASK_68/obj/Debug/net7.0/TASK_68.csproj.CoreCompileInputs.cache
+/Users/dmitry/Desktop/обучение/C#/Промежуточная аттестация/TASK_68/obj/Debug/net7.0/TASK_68.dll
+/Users/dmitry/Desktop/обучение/C#/Промежуточная аттестация/TASK_68/obj/Debug/net7.0/refint/TASK_68.dll
+/Users/dmitry/Desktop/обучение/C#/Промежуточная аттестация/TASK_68/obj/Debug/net7.0/TASK_68.pdb
+/Users/dmitry/Desktop/обучение/C#/Промежуточная аттестация/TASK_68/obj/Debug/net7.0/TASK_68.genruntimeconfig.cache
+/Users/dmitry/Desktop/обучение/C#/Промежуточная аттестация/TASK_68/obj/Debug/net7.0/ref/TASK_68.dll
